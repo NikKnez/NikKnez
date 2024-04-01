@@ -60,21 +60,13 @@ My name is Nikola Knezevic, currently living in Belgrade, Serbia. Love playing c
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/nikola-knezevic-11880861)
 
+## 📄 You can check out my resume here
+
+[<img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white" alt="resume logo" title="resume" height="25" />](https://github.com/NikKnez/resume/blob/7d43296d8d11a14080b47f5d81722a964597ad01/resume.png)
+
+
 [tech_tools_anchor]: #Hi--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
-<!--
-**NikKnez/NikKnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

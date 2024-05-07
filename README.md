@@ -60,7 +60,7 @@ My name is Nikola Knezevic, currently living in Belgrade, Serbia. Love playing c
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/nikola-knezevic-11880861)
 &nbsp;
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Web logo" title="Personal Website" height="25" />](https://660ff8599f126219c8903087--nikolaknezevic.netlify.app/)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Web logo" title="Personal Website" height="25" />](https://nikolaknezevic.netlify.app/)
 
 ## 📄 You can check out my resume here
 

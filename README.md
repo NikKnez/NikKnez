@@ -64,7 +64,7 @@ My name is Nikola Knezevic, currently living in Belgrade, Serbia. Love playing c
 
 ## 📄 You can check out my resume here
 
-[<img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white" alt="resume logo" title="resume" height="25" />](https://github.com/NikKnez/resume.git)
+[<img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white" alt="resume logo" title="resume" height="25" />](https://drive.google.com/drive/folders/1Q1_JxbsR9A7GyURkhbaPAJXZgSIp2JLp?usp=sharing)
 
 
 [tech_tools_anchor]: #Hi--

@@ -63,7 +63,7 @@ Self-taught technologist building expertise in DevOps and Cloud Engineering. Cur
 
 ## 📚 Learning Journey
 
-**2024-2025: DevOps & Cloud Engineering**
+**2025-2026: DevOps & Cloud Engineering**
 - Building hands-on experience with AWS, Docker, and Infrastructure as Code
 - Creating portfolio projects demonstrating deployment automation
 - Focusing on CI/CD pipelines and container orchestration
@@ -75,7 +75,7 @@ Self-taught technologist building expertise in DevOps and Cloud Engineering. Cur
 
 ---
 
-## 🎯 Current Projects (2025)
+## 🎯 Current Projects (2026)
 
 **DevOps Portfolio** - *In Progress*
 - AWS infrastructure automation with Terraform

@@ -1,74 +1,119 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Nikola Knezevic, currently living in Belgrade, Serbia. Love playing console games 🎮, basketball 🏀 and football ⚽
+## Nikola Knezevic | Aspiring DevOps Engineer
+**Belgrade, Serbia** | Learning Cloud Infrastructure & Automation
 
-## 🛠  Technologies and tools
+---
 
-<a name="learning-now"></a>
+## 🚀 About Me
 
-[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring logo" title="Spring" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate logo" title="Hibernate" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql logo" title="MySql" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ logo" title="IntelliJ" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm logo" title="PyCharm" height="25" />][tech_tools_anchor]
+Self-taught technologist building expertise in DevOps and Cloud Engineering. Currently developing skills in infrastructure automation, containerization, and deployment pipelines.
 
-<a name="learning-next"></a>
+**What drives me:**
+- Passion for automation and efficiency
+- Strong problem-solving mindset
+- Commitment to continuous learning
+- Building reliable, scalable systems
 
-## 📖  What I am currently learning / improving on
+**Current learning focus:**
+- ☁️ Cloud platforms (AWS, Azure)
+- 🐳 Docker & containerization
+- 🔄 CI/CD automation
+- 📜 Infrastructure as Code
+- 🤖 AI application deployment
 
-[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" />][learning_now_anchor]
+---
+
+## 🛠 Technical Skills
+
+### DevOps & Infrastructure (Learning)
+[<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" title="AWS" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring logo" title="Spring" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
-
-## 👾  What I am interested in learning at some point
-
-[<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS logo" title="Amazon AWS" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" title="Terraform" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud logo" title="Google Cloud" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" title="GitHub Actions" height="25" />][tech_tools_anchor]
+
+### Programming & Scripting
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="MS Azure logo" title="MS Azure" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" title="Bash" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity logo" title="Unity" height="25" />][learning_next_anchor]
-
-## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/nikola-knezevic-11880861)
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Web logo" title="Personal Website" height="25" />](https://nikolaknezevic.netlify.app/)
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="25" />][tech_tools_anchor]
 
-## 📄 You can check out my resume here
+### Development Experience
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" title="Spring" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />][tech_tools_anchor]
 
-[<img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white" alt="resume logo" title="resume" height="25" />](https://drive.google.com/file/d/1ZBTKqa08sDwto-wDM7XRJm2o_ANGlqdV/view?usp=drive_link)
+*Background in full-stack development provides strong foundation for understanding application deployment and infrastructure requirements.*
 
+---
 
-[tech_tools_anchor]: #Hi--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+## 📚 Learning Journey
 
+**2024-2025: DevOps & Cloud Engineering**
+- Building hands-on experience with AWS, Docker, and Infrastructure as Code
+- Creating portfolio projects demonstrating deployment automation
+- Focusing on CI/CD pipelines and container orchestration
 
+**Previous: Software Development**
+- Self-taught programming through personal projects
+- Experience with Java, Spring Boot, React, Python
+- Multiple full-stack applications (see repositories below)
+
+---
+
+## 🎯 Current Projects (2025)
+
+**DevOps Portfolio** - *In Progress*
+- AWS infrastructure automation with Terraform
+- Dockerized application deployments
+- CI/CD pipeline implementations
+- AI application infrastructure
+
+*Check back soon for live examples and documentation.*
+
+---
+
+## 💡 What I Bring
+
+- **Self-directed learner:** Proven ability to master complex technical skills independently
+- **Problem solver:** Strong analytical thinking and troubleshooting mindset  
+- **Reliable:** 20 years of consistent professional work history
+- **Detail-oriented:** Attention to system reliability and documentation
+- **Communication:** Clear documentation and explanation of technical concepts
+
+---
+
+## 🔍 Connect With Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/nikola-knezevic-11880861)
+&nbsp;
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" title="Portfolio Website" height="25" />](https://nikolaknezevic.netlify.app/)
+
+---
+
+## 🤝 Open For
+
+- DevOps consulting projects (small to medium scope)
+- Cloud infrastructure setup and automation
+- Learning opportunities and mentorship
+- Collaboration on open-source DevOps tools
+
+---
+
+*Belgrade, Serbia | Available for remote work | Central European Time (CET/CEST)*
+
+[tech_tools_anchor]: #hi-there-

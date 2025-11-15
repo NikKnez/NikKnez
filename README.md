@@ -99,7 +99,7 @@ Self-taught technologist building expertise in DevOps and Cloud Engineering. Cur
 
 ## 🔍 Connect With Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/nikola-knezevic-11880861)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/nikola-knezevic-devops)
 &nbsp;
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" title="Portfolio Website" height="25" />](https://nikolaknezevic.netlify.app/)
 

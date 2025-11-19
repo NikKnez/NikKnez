@@ -39,7 +39,7 @@ Before focusing on DevOps, I built six full-stack applications (Java, Spring Boo
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/nikola-knezevic-dev-ops](https://www.linkedin.com/in/nikola-knezevic-dev-ops/)
+- LinkedIn: [linkedin.com/in/nikola-knezevic](https://www.linkedin.com/in/nikola-knezevic-devops/)
 - Email: nknezevic@live.com
 - Location: Belgrade, Serbia (Open to remote)
 
